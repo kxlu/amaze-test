@@ -1,2 +1,2 @@
-# amazeco-test
+# amaze-test
 Testing Repository
